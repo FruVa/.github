@@ -1,0 +1,14 @@
+name: Notify testers about new test issues
+
+on:
+  issues:
+      types: [labeled]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: jenschelkopf/issue-label-notification-action@1.3
+          with:
+             recipients: |
+                  test=@daniel-leinweber
