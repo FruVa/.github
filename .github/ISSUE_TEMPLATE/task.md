@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Task
 about: Suggest an idea for this project
 title: "[TASK]"
 labels: task
