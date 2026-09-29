@@ -6,6 +6,12 @@ labels: bug
 
 ---
 
+# Reporter or requester
+Who reported this issue and should receive follow-up notifications?
+
+# Notification channel
+Preferred channel for status updates: Email, Microsoft Teams, or no notification needed.
+
 # Describe the bug
 A clear and concise description of what the bug is.
 

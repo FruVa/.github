@@ -6,6 +6,12 @@ labels: feature
 
 ---
 
+# Reporter or requester
+Who requested this feature and should receive follow-up notifications?
+
+# Notification channel
+Preferred channel for status updates: Email, Microsoft Teams, or no notification needed.
+
 # Description
 A clear and concise description of what you want to happen.
 
