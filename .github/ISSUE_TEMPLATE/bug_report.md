@@ -6,12 +6,6 @@ labels: bug
 
 ---
 
-# Reporter or requester
-Who reported this issue and should receive follow-up notifications?
-
-# Notification channel
-Preferred channel for status updates: Email or no notification needed.
-
 # Describe the bug
 A clear and concise description of what the bug is.
 
@@ -35,3 +29,9 @@ Please complete the following information
 
 # Additional information
 Add any other information about the problem here.
+
+# Reporter or requester
+Who reported this issue and should receive follow-up notifications?
+
+# Notification channel
+Preferred channel for status updates: Email or no notification needed.
