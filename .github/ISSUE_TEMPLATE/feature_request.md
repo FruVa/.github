@@ -6,12 +6,6 @@ labels: feature
 
 ---
 
-# Reporter or requester
-Who requested this feature and should receive follow-up notifications?
-
-# Notification channel
-Preferred channel for status updates: Email or no notification needed.
-
 # Description
 A clear and concise description of what you want to happen.
 
@@ -23,3 +17,9 @@ A clear and concise description of any alternative solutions or features you've 
 
 # Additional information
 Add any other information or screenshots about the feature request here.
+
+# Reporter or requester
+Who requested this feature and should receive follow-up notifications?
+
+# Notification channel
+Preferred channel for status updates: Email or no notification needed.
